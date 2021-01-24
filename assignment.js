@@ -4,7 +4,7 @@
 
 //Conversion of Kilometer to meter
 
-function kelometerToMeter(km) {
+function kilometerToMeter(km) {
     //Checking the input is number or string
     if (typeof km !== "number") {
         return "Error: You can input number only!";
